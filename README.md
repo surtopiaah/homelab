@@ -8,9 +8,9 @@ Notes and configs from learning self-hosting on Fedora with Podman.
 A tool that checks whether websites are online.
 
 To start it:
-'''bash 
+```bash 
 bash uptime-kuma/run.sh
-'''
+```
 
 Open your browswer and navigate to:
 http://localhost:3001
@@ -22,5 +22,5 @@ Uptime Kuma warned me, and I switched to the recommended v2 tag (I was using v1 
 
  basic terminology:
 - Podman - open source tool for developing, managing, and running containers 
-- Container - 
-- Port -
+- Container - an isolated environment that packages an application and its dependencies so it can run consistently 
+- Port - a communication endpoint that allows applications and services to send and receive network traffic
