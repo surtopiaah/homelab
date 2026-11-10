@@ -1,18 +1,18 @@
 # homelab
 
-Notes and configs from learning self-hosting on Fedora with Podman.
+Notes and configurations from learning self-hosting on Fedora with Podman.
 
 ## Services 
 
 ### Uptime Kuma ('uptime-kuma/')
 A tool that checks whether websites are online.
 
-To start it:
+**To start it:**
 ```bash 
 bash uptime-kuma/run.sh
 ```
 
-Open your browswer and navigate to:
+**Open your browser and navigate to:**
 http://localhost:3001
 
 
