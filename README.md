@@ -8,9 +8,12 @@ Notes and configs from learning self-hosting on Fedora with Podman.
 A tool that checks whether websites are online.
 
 To start it:
-	bash uptime-kuma/run.sh
+'''bash 
+bash uptime-kuma/run.sh
+'''
 
-Then, open http://localhost:3001
+Open your browswer and navigate to:
+http://localhost:3001
 
 
 ## What I learned
